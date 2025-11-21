@@ -1,7 +1,6 @@
 # <div align="center">Jason Kamsu</div>
 
 <div align="center">
-  <img src="https://jasonkamsu.netlify.app/assets/Photo_VISA.png" alt="Jason Kamsu" width="180" style="border-radius:50%; box-shadow:0 12px 30px rgba(0,0,0,.2);" />
   <p><strong>Développeur Full-Stack • Spécialiste Java/Spring • Architecte Logiciel</strong></p>
   <p>Je conçois des plateformes sécurisées et scalables mêlant Java/Spring, React/Angular, .NET et DevOps pour livrer des expériences modernes dans la fintech, l’e-commerce et le SaaS.</p>
   <a href="https://jasonkamsu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-0a9396?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
